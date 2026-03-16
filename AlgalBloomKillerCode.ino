@@ -1,6 +1,6 @@
 #include <Servo.h>
-const int triggerPin1 = 3;
-const int triggerPin2 = 5;
+const int triggerPin1 = 3; //This is the name of the pin connected to the first ultrasonic sensor. 
+const int triggerPin2 = 5; //For the second ultrasonic sensor
 const int servo = 9;
 int delayTime = 15;
 
